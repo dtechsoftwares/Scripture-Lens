@@ -1,0 +1,5 @@
+{
+  "name": "Scripture Lens",
+  "description": "A dedicated research and note-taking application for scripture study. Write your thoughts, and use Gemini AI to analyze text, provide historical context, and generate comparative insights to deepen your understanding.",
+  "requestFramePermissions": []
+}
